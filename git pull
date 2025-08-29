@@ -1,0 +1,20 @@
+[33mcommit 3c429623809fd4f4f16d78b5206d4ec84636241a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mGruy[m[33m, [m[1;31morigin/prototype[m[33m, [m[1;32mprototype[m[33m)[m
+Merge: cdd239a 0ac4e35
+Author: Alesandro Hobayan <153970367+Sandro-Hobayan@users.noreply.github.com>
+Date:   Fri Aug 29 22:29:47 2025 +0800
+
+    Merge pull request #1 from Sandro-Hobayan/jericho
+    
+    banares
+
+[33mcommit 0ac4e350633c284f9771a761813a5b1bb185563d[m
+Author: Jericho Banares <banaresjericho5@gmail.com>
+Date:   Fri Aug 29 22:26:21 2025 +0800
+
+    banares
+
+[33mcommit cdd239ac54e6042d1574ca515fd29108e7046b54[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sandro Hobayan <alesandrosfboo@gmail.com>
+Date:   Fri Aug 29 22:04:03 2025 +0800
+
+    first commit
